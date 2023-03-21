@@ -1,7 +1,10 @@
-# info2300-a1
+# INFO2300 Assignment 3
+
+### Project Description
+The project consists of simple HTML pages for INFO2300 Assignment 3.
 
 ### Project Setup Instructions
-1. run `git clone https://github.com/OleksandrLevinskyi/info2300-a1.git` command inside a target folder on your local machine to clone the repo to
+1. run `git clone https://github.com/OleksandrLevinskyi/info2300-a3.git` command inside a target folder on your local machine to clone the repo to
 2. open index.html page in your browser to view the website
 
 ### License Description
